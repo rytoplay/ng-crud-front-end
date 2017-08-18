@@ -1,6 +1,7 @@
-# TodoApp
+# Angular CRUD Front End
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
+A simple Angular2 script to illustrate a simple gui for CRUD operations with a RESTful API
 
 ## Development server
 
